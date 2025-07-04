@@ -19,6 +19,14 @@ export default {
         ring: "hsl(var(--ring))",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
+        coffee: {
+          dark: "hsl(30, 25%, 8%)",
+          medium: "hsl(30, 80%, 35%)",
+          light: "hsl(35, 25%, 95%)",
+          bean: "hsl(30, 15%, 15%)",
+          cream: "hsl(35, 15%, 85%)",
+          gold: "hsl(45, 85%, 55%)",
+        },
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
